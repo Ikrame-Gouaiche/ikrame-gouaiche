@@ -7,7 +7,9 @@
 
 - 📫 How to reach me **gouaicheikrame@gmail.com**
 
-[![AWS Cloud Practitioner [CLF-C02]](aws-certified-cloud-practitioner.png)](https://www.credly.com/badges/9d2e35dc-b2f0-451d-b364-922ddd11c6a7/public_url)
+<a href="https://www.credly.com/badges/9d2e35dc-b2f0-451d-b364-922ddd11c6a7/public_url">
+  <img src="aws-certified-cloud-practitioner.png" alt="AWS Cloud Practitioner [CLF-C02]" width="200" height="200">
+</a>
 
 
 <h3 align="left">Connect with me:</h3>
