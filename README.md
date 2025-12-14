@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Ikrame Gouaiche</h1>
 <h3 align="center">A passionate software engineer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ikrame-gouaiche" alt="ikrame-gouaiche" /></a> </p>
-
 - 🔭 I’m currently working on **CabinetX**
 
 - 🌱 I’m currently learning **Angular, spring boot microservices**
 
 - 📫 How to reach me **gouaicheikrame@gmail.com**
+
+[![AWS Cloud Practitioner [CLF-C02]](aws-certified-cloud-practitioner.png)](https://www.credly.com/badges/9d2e35dc-b2f0-451d-b364-922ddd11c6a7/public_url)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
