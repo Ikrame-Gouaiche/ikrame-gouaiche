@@ -26,7 +26,7 @@
 
 ### 👩‍💻 About Me
 
-Hey there! I'm **Ikrame** — a Software, Cloud & AI Engineer from **Casablanca** 🇲🇦 who spends way too much time arguing with YAML indentation, coaxing Kubernetes pods into staying `Running`, and teaching Python scripts to do the boring stuff so I don't have to.
+Hey there! I'm **Ikrame** — a Software, Cloud Engineer from **Casablanca** 🇲🇦 who spends way too much time arguing with YAML indentation, coaxing Kubernetes pods into staying `Running`, and teaching Python scripts to do the boring stuff so I don't have to.
 
 ```yaml
 ikrame:
