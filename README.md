@@ -26,15 +26,20 @@
 
 ### 👩‍💻 About Me
 
-State Engineer in Software Engineering (**ENSA Khouribga, 2026 – Highest Honors / *Mention Très Bien***), based in **Casablanca, Morocco** 🇲🇦. I specialize in **Backend & AI Engineering** (Python, Java Spring Boot, Machine Learning) and **Cloud / DevOps Industrialization** (AWS, Docker, Kubernetes/EKS, Terraform, CI/CD).
+Hey there! I'm **Ikrame** — a Software, Cloud & AI Engineer from **Casablanca** 🇲🇦 who spends way too much time arguing with YAML indentation, coaxing Kubernetes pods into staying `Running`, and teaching Python scripts to do the boring stuff so I don't have to.
 
-- 💼 **Recent Experience:**
-  - **BSS Integrator & Application Deployment (PFE)** @ *Inetum Offshore Maroc (Telecom Client)* — Comarch BSS (CPML) business rules, real-time API observability with **Grafana**, and **CI/CD** release automation in an international Agile/Scrum team.
-  - **Python Backend Developer (PFA)** @ *Capgemini Engineering* — Python automation tooling and deliverable validation pipelines.
-- 🎓 **Education:** State Engineering Degree in Software Engineering, ENSA Khouribga (2021–2026).
-- 🏅 **Certifications:** **AWS Certified Cloud Practitioner (CLF-C02)** & **ALX Professional Foundations**.
-- 📫 **Reach me at:** [ikrame.gouaiche.ig@gmail.com](mailto:ikrame.gouaiche.ig@gmail.com)
+```yaml
+ikrame:
+  vibe: "Turning coffee & curiosity into production-ready code"
+  superpower: "Watching Grafana dashboards so APIs don't quietly catch fire"
+  current_obsession: "Making AI models & microservices play nice in the cloud"
+  certified_in: "Speaking fluent AWS (CLF-C02) & surviving Scrum standups"
+  fun_fact: "If a pipeline turns green on the first try, I immediately get suspicious"
+```
 
+- 🔭 **Lately:** Automating deployments, building intelligent backends, and breaking/fixing things on AWS & Kubernetes.
+- ⚡ **Motto:** *Automate everything twice — once for the code, once for peace of mind.*
+- 📫 **Say hi (or send memes / opportunities):** [ikrame.gouaiche.ig@gmail.com](mailto:ikrame.gouaiche.ig@gmail.com)
 ---
 
 ### 🛠️ Tech Stack
