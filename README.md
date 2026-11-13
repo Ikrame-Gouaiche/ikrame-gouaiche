@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B4F8A,100:0F172A&height=200&section=header&text=Ikrame%20Gouaiche&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Software%20%7C%20Cloud%20%7C%20DevOps%20%26%20AI%20Engineer&descAlignY=58&descSize=18" width="100%" alt="Ikrame Gouaiche Header" />
+# Hi there, I'm Ikrame GOUAICHE 👋
 
 <!-- Typing Animation -->
 <a href="https://github.com/Ikrame-Gouaiche">
